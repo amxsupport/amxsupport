@@ -11,10 +11,9 @@
 - 🔭 I’m currently working on My portfolio Project At ALX
 - 🌱 I’m currently learning Backend Stuff
 - 👯 I’m looking to collaborate on Any Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with Creating my portfolio landing page
+- 💬 Ask me about Html. CSS, Javascript **HTML, CSS, Javascript, React, Node.js, Express**
 - 📫 How to reach me: **itmasterdesigne@gmail.com,**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: C🧡ding 
 
 
